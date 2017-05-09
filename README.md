@@ -3,4 +3,6 @@
 
 Playing sounds using a accelerometer in raspberry pi with es6
 
-Based on Node.js I2C module: [adxl345-sensor](https://github.com/skylarstein/adxl345-sensor/)
+Based on Node.js I2C module: [adxl345-sensor](https://github.com/skylarstein/adxl345-sensor/).
+
+Play with omxplayer.
