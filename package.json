@@ -1,0 +1,16 @@
+{
+  "name": "adxl345-playing-media",
+  "version": "1.0.0",
+  "description": "Playing sounds using a accelerometer in raspberry pi with es6",
+  "main": "adxl345-sound.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node adxl345-sound.js"
+  },
+  "author": "Nicola Dimatteo",
+  "license": "ISC",
+  "dependencies": {
+    "adxl345-sensor": "0.0.8",
+    "omxdirector": "^0.1.2"
+  }
+}
